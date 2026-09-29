@@ -2,55 +2,106 @@
 
 **Effective Date: September 29, 2026**
 
-TheExploringDuck ("we," "us," or "our") operates the mobile game **Trash Hero: Sorting Expert**. This Privacy Policy explains how information is handled when you use the game.
+TheExploringDuck ("we," "us," or "our") operates the mobile game **Trash Hero: Sorting Expert**. This Privacy Policy explains how information may be collected, used, and processed when you use the game.
 
-## Information We Collect
+## Information and Data Collection
 
-Trash Hero: Sorting Expert does not require users to create an account and does not intentionally collect personally identifiable information such as your name, email address, phone number, physical address, or precise location.
+Trash Hero: Sorting Expert does not require users to create an account.
 
-Game progress and settings may be stored locally on your device as necessary for the game to function.
+TheExploringDuck does not directly request information such as your name, email address, phone number, physical address, or precise location through the game.
+
+However, Trash Hero: Sorting Expert uses third-party services that may automatically collect or process certain information necessary to provide advertising, purchases, security, analytics, diagnostics, and related services.
+
+Depending on the service and device configuration, this information may include:
+
+- Device or advertising identifiers
+- IP address
+- Device and operating-system information
+- Advertising interactions and performance information
+- App interactions
+- Diagnostic and crash information
+- Purchase and transaction information
+
+Game progress, preferences, and settings may also be stored locally on the user's device.
+
+## Advertising
+
+Trash Hero: Sorting Expert displays advertising using **Google AdMob**, including banner advertisements and optional rewarded advertisements.
+
+Google AdMob may collect or process information such as device identifiers, advertising identifiers, IP addresses, advertising interactions, diagnostic information, and other information necessary to deliver, measure, secure, and improve advertising services.
+
+Rewarded advertisements are optional and may provide an in-game benefit after the user chooses to view an advertisement.
+
+Google's collection and use of information through AdMob is governed by Google's applicable privacy policies and advertising policies.
 
 ## In-App Purchases
 
-Trash Hero: Sorting Expert offers optional in-app purchases.
+Trash Hero: Sorting Expert offers optional in-app purchases through **Google Play Billing**.
 
-Purchases made through Google Play are processed by Google Play and its payment systems. TheExploringDuck does not directly collect or store payment-card numbers or other payment credentials provided to Google for processing purchases.
+Payments are processed by Google Play. TheExploringDuck does not directly collect or store users' payment-card numbers or other payment credentials supplied to Google.
 
-The game may receive information necessary to verify and fulfill a purchase, such as the purchased product, purchase status, transaction or purchase token, and related purchase information.
+The game may receive or process information necessary to verify and fulfill purchases, such as the purchased product, purchase status, transaction information, or purchase token.
 
-Google's handling of information associated with Google Play purchases is governed by Google's applicable terms and privacy policies.
+## How Information Is Used
+
+Information processed through Trash Hero: Sorting Expert or its third-party services may be used to:
+
+- Operate and maintain the game
+- Save game progress and preferences
+- Provide and measure advertisements
+- Provide rewarded-ad benefits
+- Process and verify in-app purchases
+- Detect fraud, abuse, or security problems
+- Diagnose crashes and technical problems
+- Improve game performance and functionality
 
 ## Third-Party Services
 
-Trash Hero: Sorting Expert may rely on platform services provided by Google Play for distribution, in-app purchasing, and related functionality. These services may process technical, device, transaction, or other information according to their own privacy policies.
+Trash Hero: Sorting Expert uses third-party services including:
+
+**Google AdMob** — for banner and rewarded advertising.
+
+**Google Play Billing** — for processing and verifying in-app purchases.
+
+These services operate according to their own terms and privacy policies, and their data practices may differ from those of TheExploringDuck.
 
 ## Data Sharing
 
 TheExploringDuck does not sell users' personal information.
 
-Information may be processed by third-party platform providers when necessary to provide features such as in-app purchases or distribution of the game.
-
-## Data Security
-
-We take reasonable measures appropriate to the information handled by the game. Payment information used for in-app purchases is handled by the applicable payment platform rather than being directly stored by TheExploringDuck.
+Certain information may be transmitted to or processed by third-party service providers, including Google, as necessary to provide advertising, purchasing, security, diagnostics, and related functionality.
 
 ## Data Retention and Deletion
 
 Trash Hero: Sorting Expert does not currently provide user accounts or maintain a developer-operated database containing personally identifiable user profiles.
 
-Locally stored game data may generally be removed by clearing the application's data or uninstalling the game. Information processed independently by Google Play or another platform provider is subject to that provider's retention and deletion practices.
+Locally stored game information may generally be removed by clearing the application's data or uninstalling the game.
+
+Information independently collected or processed by Google or another third-party service is subject to that provider's data-retention and deletion practices.
+
+## Data Security
+
+Reasonable measures are used to protect information associated with the operation of Trash Hero: Sorting Expert.
+
+Payment credentials used for in-app purchases are processed by Google Play rather than directly stored by TheExploringDuck.
+
+No method of electronic transmission or storage can be guaranteed to be completely secure.
 
 ## Children's Privacy
 
-Trash Hero: Sorting Expert does not knowingly collect personally identifiable information directly from children. If the game's target audience, features, or data practices change, this Privacy Policy will be updated as appropriate.
+Trash Hero: Sorting Expert does not knowingly request personally identifiable information directly from children.
+
+Advertising and other third-party services may be subject to additional requirements depending on the age groups to which the game is made available. TheExploringDuck will configure applicable services and Google Play settings in accordance with the selected target audience and applicable requirements.
 
 ## Changes to This Privacy Policy
 
-This Privacy Policy may be updated if Trash Hero: Sorting Expert adds or changes features, services, third-party integrations, or data-handling practices. Changes will be reflected by updating the effective date of this policy.
+This Privacy Policy may be updated when Trash Hero: Sorting Expert adds or changes features, third-party services, advertising practices, purchasing options, or data-handling practices.
+
+Changes will be reflected by updating the effective date shown at the top of this Privacy Policy.
 
 ## Contact
 
-For questions or concerns regarding this Privacy Policy or the privacy practices of Trash Hero: Sorting Expert, please contact TheExploringDuck through the developer contact information provided on the game's Google Play listing.
+For questions or concerns regarding this Privacy Policy or the privacy practices of Trash Hero: Sorting Expert, please contact TheExploringDuck using the developer contact information provided on the application's Google Play listing.
 
 **Developer:** TheExploringDuck  
 **Application:** Trash Hero: Sorting Expert
